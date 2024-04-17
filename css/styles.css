@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom, #8DECB4, #41B06E);
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #141E46;
+    width: 30%;
+    border-width: 5px;
+}
+
+table {
+    border: 3px solid #8DECB4;
+    border-spacing: 10px;
+}
+
+h1,
+h3 {
+    color: #41B06E;
+}
+
+a {
+    color: #41B06E;
+}
