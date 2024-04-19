@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     background: linear-gradient(to bottom, #8DECB4, #41B06E);
 }
 
@@ -15,11 +16,20 @@ table {
     border-spacing: 10px;
 }
 
-h1,
 h3 {
     color: #41B06E;
 }
 
 a {
     color: #41B06E;
+}
+
+.description {
+    margin: 10%;
+}
+
+.members {
+    margin: 0;
+    margin-left: 20%;
+    margin-right: 20%;
 }
