@@ -42,3 +42,18 @@ a {
     width: 300px;
     height: 100%;
 }
+
+.webpage_heading {
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.icons {
+    height: 3.0rem;
+}
